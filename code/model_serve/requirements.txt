@@ -1,0 +1,12 @@
+functions-framework==3.*
+gunicorn
+numpy
+scikit-learn
+google-cloud-storage
+pandas
+joblib
+librosa
+gcloud
+pydub
+ffmpeg
+flask
